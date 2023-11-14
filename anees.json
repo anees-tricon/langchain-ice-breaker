@@ -1,0 +1,244 @@
+{
+  "public_identifier": "anees-mohamed-a1265161",
+  "profile_pic_url": "https://media.licdn.com/dms/image/C5103AQFRpHdUlhtJxw/profile-displayphoto-shrink_800_800/0/1533545333421?e=1705536000&v=beta&t=ehtSf94fKwcCOV3n3HYvLPy3Nl22YgS2ZMZ2okQ4qz0",
+  "background_cover_image_url": "",
+  "first_name": "Anees",
+  "last_name": "Mohamed",
+  "full_name": "Anees Mohamed",
+  "follower_count": 323,
+  "occupation": "Engineering Leader at Tricon Infotech",
+  "headline": "JavaScript | Solutioning | Mentoring",
+  "summary": "- 9 years experience in Front end web development\n- 5 years experience in Back end work using node JS and Mongo\n- Worked on front end frameworks like Ember and Angular\n- Strong in jQuery,Javascript, HTML and CSS.\n- Quick learner with a passion for Learning new things.\n- Efficient team player\n- Helping in recruitment by conducting technical interviews and also part of the elite panel for campus drives at leading colleges",
+  "country": "IN",
+  "country_full_name": "India",
+  "city": "Bangalore Urban",
+  "state": "Karnataka",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": None,
+      "company": "Tricon Infotech",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/triconinfotech/",
+      "title": "Engineering Leader",
+      "description": None,
+      "location": "Bengaluru, Karnataka, India",
+      "logo_url": "https://media.licdn.com/dms/image/C510BAQHVG1CSCrRMYw/company-logo_400_400/0/1630572911574/triconinfotech_logo?e=1707955200&v=beta&t=AasEXWNJYJo0R4VsNI9uGx9aFN6CzWkGhI4icrtUxhU"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2022
+      },
+      "company": "Tricon Infotech",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/triconinfotech/",
+      "title": "Engineering & Product Leader",
+      "description": None,
+      "location": "Bangalore Urban, Karnataka, India",
+      "logo_url": "https://media.licdn.com/dms/image/C510BAQHVG1CSCrRMYw/company-logo_400_400/0/1630572911574/triconinfotech_logo?e=1707955200&v=beta&t=AasEXWNJYJo0R4VsNI9uGx9aFN6CzWkGhI4icrtUxhU"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2021
+      },
+      "company": "Tricon Infotech",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/triconinfotech/",
+      "title": "Technical Lead",
+      "description": "Coding, leading\nClient interaction \nTraining , mentoring, code review",
+      "location": "Bengaluru Area, India",
+      "logo_url": "https://media.licdn.com/dms/image/C510BAQHVG1CSCrRMYw/company-logo_400_400/0/1630572911574/triconinfotech_logo?e=1707955200&v=beta&t=AasEXWNJYJo0R4VsNI9uGx9aFN6CzWkGhI4icrtUxhU"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2011
+      },
+      "field_of_study": "Electrical, Electronics and Communications Engineering",
+      "degree_name": "Bachelor of Technology (BTech)",
+      "school": "MES College of Engineering",
+      "school_linkedin_profile_url": None,
+      "description": None,
+      "logo_url": None,
+      "grade": None,
+      "activities_and_societies": None
+    }
+  ],
+  "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Malayalam",
+    "Tamil"
+  ],
+  "accomplishment_organisations": [
+    {
+      "starts_at": None,
+      "ends_at": None,
+      "org_name": "IEEE",
+      "title": "Member",
+      "description": None
+    }
+  ],
+  "accomplishment_publications": [
+    
+  ],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Employee of the month",
+      "issuer": "Tricon Infotech Pvt. Ltd.",
+      "issued_on": {
+        "day": 1,
+        "month": 5,
+        "year": 2014
+      },
+      "description": "Earned this award for excellence in delivery, hardwork and client satisfaction"
+    },
+    {
+      "title": "Employee of the Month",
+      "issuer": "Tricon Infotech Pvt. Ltd",
+      "issued_on": {
+        "day": 1,
+        "month": 11,
+        "year": 2012
+      },
+      "description": "Earned the award of excellence in delivery"
+    }
+  ],
+  "accomplishment_patents": [
+    
+  ],
+  "accomplishment_courses": [
+    
+  ],
+  "accomplishment_projects": [
+    
+  ],
+  "accomplishment_test_scores": [
+    
+  ],
+  "volunteer_work": [
+    
+  ],
+  "certifications": [
+    
+  ],
+  "connections": None,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/shishir-trivedi-60148833",
+      "name": "Shishir Trivedi",
+      "summary": "Engineering and Design Leader at Tricon infotech",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/venkata-suresh-pothakamuri-6b84b438",
+      "name": "venkata suresh pothakamuri",
+      "summary": "AVP-Engineering",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/vikhyath-srivathsav-7965607a",
+      "name": "Vikhyath Srivathsav",
+      "summary": "Senior Software Engineer| AI Engineer",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/balaragunath",
+      "name": "Bala Ragunath Arumugasamy",
+      "summary": "Director - Engineering at Tricon Infotech",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/fahad-np",
+      "name": "Fahad N.P",
+      "summary": "Engineering & Design Leader at Tricon Infotech",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/chirag1989",
+      "name": "Chirag Srivastava",
+      "summary": "Principal Engineer",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/arpita-hegde-6380ba187",
+      "name": "Arpita Hegde",
+      "summary": "Software Engineer at Tricon Infotech",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/rinky-p",
+      "name": "Rinky P.",
+      "summary": "Associate Software Engineer at Tricon Infotech Pvt Ltd.",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/aayush-tyagi-594634125",
+      "name": "Aayush Tyagi",
+      "summary": "Senior Principal Engineer at Tricon Infotech",
+      "location": None
+    },
+    {
+      "link": "https://www.linkedin.com/in/monika-jayaram-b2b38974",
+      "name": "Monika Jayaram",
+      "summary": "Senior Principal Engineer at Tricon Infotech",
+      "location": None
+    }
+  ],
+  "recommendations": [
+    
+  ],
+  "activities": [
+    
+  ],
+  "similarly_named_profiles": [
+    
+  ],
+  "articles": [
+    
+  ],
+  "groups": [
+    
+  ],
+  "skills": [
+    
+  ],
+  "inferred_salary": None,
+  "gender": None,
+  "birth_date": None,
+  "industry": None,
+  "extra": None,
+  "interests": [
+    
+  ],
+  "personal_emails": [
+    
+  ],
+  "personal_numbers": [
+    
+  ]
+}
